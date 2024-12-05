@@ -10,7 +10,7 @@ contains additional details on how ML pipelines are tested and deployed across e
 
 ![MLOps Stacks diagram](docs/images/mlops-stack-summary.png)
 
-
+sdada
 ## Code structure
 This project contains the following components:
 
