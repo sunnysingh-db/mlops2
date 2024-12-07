@@ -14,7 +14,7 @@ sdada
 ## Code structure
 This project contains the following components:
 
-| Component                  | Description                                                                                               asd                                             sa       aas    asdasaa|
+| Component                  | Description                                                                                               asd                                             sa       aas    asdasaa|j
 |----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ML Code                    | Example ML project code, with unit tested Python modules and notebooks                                                                                                                                                                                                                                                                             |
 | ML Resources as Code | ML pipeline resources (training and batch inference jobs with schedules, etc) configured and deployed through [databricks CLI bundles](https://learn.microsoft.com/azure/databricks/dev-tools/cli/bundle-cli)                                                                                              |
